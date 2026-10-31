@@ -1,6 +1,7 @@
 # kod_asistanim
 #Kod Asistan v0.1
-##proje Yazarı Eren Baysal
+## Proje Yazarı
+Eren Baysal
 ## Proje Amacı 
 kullanicilara gunluk lslerinde yardimci olacak asistan tasarlamak
 ## Projenin Hedefleri 
