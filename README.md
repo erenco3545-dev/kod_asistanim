@@ -14,6 +14,6 @@ kullanicilara gunluk lslerinde yardimci olacak asistan tasarlamak
 3. Döngüye gir(su seviyesi <= 50 olduğunda):
 - Saati ve  su seviyesini ekrana yazdır
 - saati 1 arttır
-4.Eşik aşıldığında (su seviyesi >50)
+4. Eşik aşıldığında (su seviyesi >50)
 - Döngüyü kır ve Tahliyeyi başlat
-5.Bitir
+5. Bitir
