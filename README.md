@@ -1,7 +1,8 @@
 # kod_asistanim
 #Kod Asistan v0.1
-##proje Yazarı:**Eren Baysal
+##proje Yazarı Eren Baysal
 ## Proje Amacı 
-kullanicilara gunluk lslerinde yardimci olavak asidtan tasarlamak
-## v1.0 Akıllı Menü
-## v2.0 Veri Saklama
+kullanicilara gunluk lslerinde yardimci olacak asistan tasarlamak
+## Projenin Hedefleri 
+v1.0 Akıllı Menü
+v2.0 Veri Saklama
