@@ -9,9 +9,9 @@ kullanicilara gunluk lslerinde yardimci olacak asistan tasarlamak
 * v2.0 Veri Saklama
 ## Proje Kapsamı 
  Kritik Eşik
-1.Başla
-2.Saati başlat(Saat=1)
-3.Döngüye gir(su seviyesi <= 50 olduğunda):
+1. Başla
+2. Saati başlat(Saat=1)
+3. Döngüye gir(su seviyesi <= 50 olduğunda):
 - Saati ve  su seviyesini ekrana yazdır
 - saati 1 arttır
 4.Eşik aşıldığında (su seviyesi >50)
