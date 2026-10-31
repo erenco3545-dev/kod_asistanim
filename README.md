@@ -17,3 +17,7 @@ kullanicilara gunluk lslerinde yardimci olacak asistan tasarlamak
 4. Eşik aşıldığında (su seviyesi >50)
 - Döngüyü kır ve Tahliyeyi başlat
 5. Bitir
+
+## Kaynakça
+Proglama temelleri ders kitabı 
+Yapay zeka desteği
